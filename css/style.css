@@ -1,0 +1,9 @@
+# Empty CSS file for your own CSS
+
+
+#footer {
+    background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F2a%2Fa0%2F87%2F2aa087672753cba980f983a6f8336761.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com.au%2Fpin%2F602849100114086490%2F&tbnid=-X7mt0_7BdFU4M&vet=12ahUKEwiqpLSo0879AhWR4bsIHceDCCkQMygFegUIARD-AQ..i&docid=Nyo4qw1rfm59hM&w=960&h=350&q=computer%20banner&client=safari&ved=2ahUKEwiqpLSo0879AhWR4bsIHceDCCkQMygFegUIARD-AQ');
+    width: 100%;
+    height: auto;
+    background-size: cover;
+}
